@@ -2,6 +2,8 @@ package com.bucket;
 
 public class EvenOdd {
 
+	//Forked by darkknight77
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -12,6 +14,9 @@ public class EvenOdd {
 			System.out.println("Odd");
 		}
 
+		
+		
+		
 	}
 
 }
