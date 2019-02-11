@@ -14,7 +14,7 @@ public class EvenOdd {
 			System.out.println("Odd");
 		}
 
-		
+	// Fork works	
 		
 		
 	}
